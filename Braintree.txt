@@ -1,0 +1,9 @@
+Braintree (A Paypal service)- https://developers.braintreepayments.com/start/hello-server/node
+1. npm install braintree
+Required packages -
+1. https://www.npmjs.com/package/braintree-web-drop-in-react (npm i braintree-web-drop-in-react)
+2. Create account in Braintree with sandbox (https://www.braintreepayments.com/sandbox)
+
+Braintree Sandbox -
+Username - 
+Password - 
